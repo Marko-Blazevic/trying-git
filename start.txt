@@ -31,4 +31,10 @@ drugi branch dodajem jos
 
 on branch dodajem jos
 
+<<<<<<< HEAD
 sa mastera
+=======
+sa mastera
+
+switched to dodajem-jos
+>>>>>>> dodajem-jos
