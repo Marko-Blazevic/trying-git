@@ -10,3 +10,6 @@ odvojen branch
 
 treci branch. ovaj je u proslosti. za merge. 
 >>>>>>> rad-na-start.txt
+
+
+razlika u fajlu
