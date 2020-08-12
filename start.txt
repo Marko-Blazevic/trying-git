@@ -6,7 +6,12 @@ Dodato novo novo
 jos nesto sa locala
 
 odvojen branch
+<<<<<<< HEAD
 =======
 
 treci branch. ovaj je u proslosti. za merge. 
 >>>>>>> rad-na-start.txt
+=======
+
+novi stari branch
+>>>>>>> novi-stari-branch
