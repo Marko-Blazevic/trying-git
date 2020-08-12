@@ -1,7 +1,12 @@
 Test Git Quick Start demo
 
+<<<<<<< HEAD
 Dodato novo novo
 
 jos nesto sa locala
 
 odvojen branch
+=======
+
+treci branch. ovaj je u proslosti. za merge. 
+>>>>>>> rad-na-start.txt
