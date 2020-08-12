@@ -21,3 +21,6 @@ novi stari branch
 
 razlika u fajlu
 >>>>>>> head-detached-earlier
+
+
+dodajem jos
