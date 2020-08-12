@@ -1,1 +1,4 @@
 Test Git Quick Start demo
+
+
+treci branch. ovaj je u proslosti. za merge. 
