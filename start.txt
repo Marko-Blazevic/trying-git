@@ -11,7 +11,13 @@ odvojen branch
 
 treci branch. ovaj je u proslosti. za merge. 
 >>>>>>> rad-na-start.txt
+<<<<<<< HEAD
 =======
 
 novi stari branch
 >>>>>>> novi-stari-branch
+=======
+
+
+razlika u fajlu
+>>>>>>> head-detached-earlier
