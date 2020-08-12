@@ -30,3 +30,7 @@ branch sa dodajem jos
 drugi branch dodajem jos
 
 on branch dodajem jos
+
+sa mastera
+
+switched to dodajem-jos
