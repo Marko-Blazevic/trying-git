@@ -5,3 +5,5 @@ Dodato novo novo
 jos nesto sa locala
 
 odvojen branch
+
+novi stari branch
