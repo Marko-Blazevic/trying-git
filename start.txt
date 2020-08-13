@@ -52,4 +52,7 @@ odvojen branch commit 2
 
 commit sa mastera 1, ali commit 3 ukupno
 
+branch 1 commit 1
+
+
 
