@@ -54,6 +54,7 @@ commit sa mastera 1, ali commit 3 ukupno
 
 
 branch 2-1 commit 1
+branch 2-1 commit 2
 
 
 
