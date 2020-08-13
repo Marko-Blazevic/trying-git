@@ -49,3 +49,7 @@ branch 2
 odvojen branch commit 1
 
 odvojen branch commit 2
+
+commit sa mastera 1, ali commit 3 ukupno
+
+
