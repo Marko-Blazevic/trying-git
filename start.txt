@@ -56,5 +56,6 @@ branch 1 commit 1
 branch 1 commit 2
 
 branch 3 commit 1
-
+branch 2-1 je merge na branch 1 pre ovoga
+branch 3 commit 2 vazi izjava odozgore
 
