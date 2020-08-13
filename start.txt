@@ -38,3 +38,6 @@ sa mastera
 
 switched to dodajem-jos
 >>>>>>> dodajem-jos
+
+
+novi branch
