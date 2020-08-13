@@ -43,3 +43,5 @@ switched to dodajem-jos
 novi branch
 
 drugi commit sa branch 1
+
+branch 2
