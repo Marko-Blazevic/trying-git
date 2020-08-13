@@ -57,3 +57,10 @@ branch 1 commit 2
 branch 1 commit 3 - branch 1 je merge sa masterom pre ovoga, ali ovo je na checkout branch-1
 
 
+branch 2-1 commit 1
+branch 2-1 commit 2
+branch 2-1 commit 3 
+
+
+
+
